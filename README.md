@@ -53,6 +53,8 @@ The open visual layer is owned by **MTÜ Green Media Foundation** (GMF), an Esto
 
 No open-source licence has been chosen yet. Until a `LICENSE` file is added, all rights are reserved by GMF.
 
+CAP24 is delivered by a consortium, and this repository sits on the platform the consortium shares. That is why it is hosted under Meteo24-Net.
+
 Components that are not part of the open layer are not in this repository. These include the authority panel, the QR-to-phone service and the relay infrastructure.
 
 ## Third-party material
@@ -69,4 +71,4 @@ Components that are not part of the open layer are not in this repository. These
 
 ## Contact
 
-MTÜ Green Media Foundation, Estonia.
+MTÜ Green Media Foundation, Estonia: hello@greenmediafoundation.org
